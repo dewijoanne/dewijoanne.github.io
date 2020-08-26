@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+footer{
+    color: white;
+    background: black;
+    height: 6em;
+    width: 100%;
+  }
+
+  nav {
+    float: right;
+    margin-right: 0.5%;
+  }
+  
+  li {
+    display: inline-block;
+    font-size: 120%;
+    font-style: bold;
+    margin: 10px 20px;
+    padding-top: 1%;
+  }
+  
+  h1 {
+    color: #35477d;
+    font-size: 250%;
+    text-align: center;
+    padding: 30px 0px;
+  }
+
+  h3 {
+    text-align: center;
+    padding: 30px 0px;
+    font-family: 'Slabo 27px', serif;
+  }
+
+  .img-container{
+    text-align: center;
+  }
+
+
+  h2{
+        text-align: center;
+        padding: 30px 0px;
+        font-family: 'Slabo 27px', serif;
+  }
+
+  p{
+    text-align: center;
+    padding: 30px 0px;
+    font-family: 'Slabo 27px', serif;
+  }
+
+  h5 {
+    text-align: center;
+    padding-top: 2em;
+    font-size: 1em;
+  }
+
+form {
+    text-align: center;
+    padding: 30px 0px;
+    font-family: 'Slabo 27px', serif;
+
+}
+
+
+body {
+    height: 100%;
+    background: #f9f7d9;
+}
+
+   h1 {
+    font-family: "Amatic SC", sans-serif}
+
+    h2 {
+        font-family: "Amatic SC", sans-serif}
+    
+    h3 {
+    font-family: "Amatic SC", sans-serif}
+
+    h4 {
+        font-family: "Amatic SC", sans-serif}
+
+    h5 {
+    font-family: "Amatic SC", sans-serif}
+
+
+    h6 {
+        font-family: "Amatic SC", sans-serif}
+
+.menu {
+    display: none}
+
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/w3images/pizza.jpg");
+  min-height: 90%;
+}
+</style>
